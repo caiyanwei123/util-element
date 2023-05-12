@@ -1,0 +1,32 @@
+{
+  "name": "util-element",
+  "version": "1.0.0",
+  "description": "vue3 element ts",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "build":"rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caiyanwei123/util-element.git"
+  },
+  "keywords": [
+    "vue3",
+    "element",
+    "ts"
+  ],
+  "author": "David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caiyanwei123/util-element/issues"
+  },
+  "homepage": "https://github.com/caiyanwei123/util-element#readme",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^11.1.0",
+    "@types/node": "^20.1.2",
+    "rollup": "^3.21.6",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "tslib": "^2.5.0"
+  }
+}
