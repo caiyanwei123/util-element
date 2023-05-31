@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "vue3 element ts",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
-    "build":"rollup -c"
+    "build": "rollup -c"
   },
   "repository": {
     "type": "git",
