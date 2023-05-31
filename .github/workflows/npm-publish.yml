@@ -33,4 +33,4 @@ jobs:
       - run: npm ci
       - run: npm publish
         env:
-          NODE_AUTH_TOKEN: ${{secrets.util_element}}
+          NODE_AUTH_TOKEN: ${{secrets.UTIL_ELEMENT}}
